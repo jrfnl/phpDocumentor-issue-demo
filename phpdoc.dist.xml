@@ -16,6 +16,6 @@
         </api>
     </version>
 
-    <template name="default"/>
+    <template name="clean"/>
 
 </phpdocumentor>
