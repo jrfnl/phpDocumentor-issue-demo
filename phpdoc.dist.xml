@@ -18,6 +18,8 @@
             <source dsn=".">
                 <path>src</path>
             </source>
+
+            <visibility>public</visibility>
         </api>
     </version>
 
