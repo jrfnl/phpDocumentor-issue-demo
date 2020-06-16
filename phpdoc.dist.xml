@@ -19,7 +19,7 @@
                 <path>src</path>
             </source>
 
-            <visibility>hidden</visibility>
+            <visibility>internal</visibility>
         </api>
     </version>
 
