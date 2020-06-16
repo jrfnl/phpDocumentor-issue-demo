@@ -18,6 +18,9 @@
             <source dsn=".">
                 <path>src</path>
             </source>
+            <ignore hidden="true" symlinks="true">
+                <path>src/**/usage-examples/**/*</path>
+            </ignore>
         </api>
     </version>
 
