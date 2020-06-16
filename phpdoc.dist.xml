@@ -19,7 +19,8 @@
                 <path>src</path>
             </source>
 
-            <visibility>public,protected</visibility>
+            <visibility>public</visibility>
+            <visibility>protected</visibility>
         </api>
     </version>
 
