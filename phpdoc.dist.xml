@@ -6,8 +6,6 @@
     xsi:noNamespaceSchemaLocation="https://docs.phpdoc.org/latest/phpdoc.xsd"
 >
 
-    <title>Demo</title>
-
     <paths>
         <output>.phpdoc/build/</output>
         <cache>.phpdoc/cache/</cache>
@@ -20,6 +18,8 @@
             </source>
         </api>
     </version>
+    <title>Demo</title>
+
 
     <template name="default"/>
 
