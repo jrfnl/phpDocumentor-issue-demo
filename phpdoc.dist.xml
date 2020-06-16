@@ -18,9 +18,6 @@
             <source dsn=".">
                 <path>src</path>
             </source>
-            <ignore hidden="true" symlinks="true">
-                <path>src/ConcreteClassExample.php</path>
-            </ignore>
         </api>
     </version>
 
