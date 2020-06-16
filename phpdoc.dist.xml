@@ -8,6 +8,11 @@
 
     <title>Demo</title>
 
+    <paths>
+        <output>.phpdoc/build/</output>
+        <cache>.phpdoc/cache/</cache>
+    </paths>
+
     <version number="latest">
         <api format="php">
             <source dsn=".">
